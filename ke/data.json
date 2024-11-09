@@ -1,0 +1,382 @@
+(224) [{…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, …]
+[0 … 99]
+[100 … 199]
+100
+: 
+{id: 71, name: 'benson.muguku', displayName: 'Benson Muguku', number: '8978', context: 'default', …}
+101
+: 
+{id: 54, name: 'sheila.hinga', displayName: 'Sheila Hinga', number: '7143', context: 'default', …}
+102
+: 
+{id: 144, name: 'chelagat.magdalynn', displayName: 'Chelagat Magdalynn', number: '7547', context: 'default', …}
+103
+: 
+{id: 49, name: 'felix.onyango', displayName: 'Felix Onyango', number: '8831', context: 'default', …}
+104
+: 
+{id: 181, name: 'jeniffer.mwende', displayName: 'Jeniffer Mwende', number: '8800', context: 'default', …}
+105
+: 
+{id: 86, name: 'delvine', displayName: 'Delvine Chepkemoi', number: '7241', context: 'default', …}
+106
+: 
+{id: 159, name: 'joseph.mungai', displayName: 'Joseph Mungai', number: '8895', context: 'default', …}
+107
+: 
+{id: 187, name: 'faith.kaiyor', displayName: 'Faith Kaiyor', number: '7171', context: 'default', …}
+108
+: 
+{id: 172, name: 'sharon.mukanda', displayName: 'Sharon Mukanda', number: '8521', context: 'default', …}
+109
+: 
+{id: 113, name: 'kelvin.biwott', displayName: 'Kelvin Biwott', number: '7016', context: 'default', …}
+110
+: 
+{id: 81, name: 'bridgit.lungwe', displayName: 'Bridgit Lungwe', number: '8321', context: 'default', …}
+111
+: 
+{id: 76, name: 'millicent.nyaera', displayName: 'Millicent Nyaera', number: '8842', context: 'default', …}
+112
+: 
+{id: 7, name: 'insurance', displayName: 'Insurance', number: '254709273920', context: 'default', …}
+113
+: 
+{id: 39, name: 'cheruiyot.korir', displayName: 'Cheruiyot Korir', number: '7531', context: 'default', …}
+114
+: 
+{id: 98, name: 'lucy.muikamba', displayName: 'Lucy Muikamba', number: '7990', context: 'default', …}
+115
+: 
+{id: 208, name: 'zipporah.wainaina', displayName: 'Zipporah Wainaina', number: '9002', context: 'default', …}
+116
+: 
+{id: 103, name: 'stecy.adhiambo', displayName: 'Stecy Adhiambo', number: '7303', context: 'default', …}
+117
+: 
+{id: 140, name: 'dorcas.joshua', displayName: 'Dorcas Joshua', number: '8571', context: 'default', …}
+118
+: 
+{id: 213, name: 'hannah.mwaniki', displayName: 'Hannah Mwaniki', number: '9504', context: 'default', …}
+119
+: 
+{id: 91, name: 'james.wanyoike', displayName: 'James Wanyoike', number: '8769', context: 'default', …}
+120
+: 
+{id: 66, name: 'jessica.odhiambo', displayName: 'Jessica Odhiambo', number: '8975', context: 'default', …}
+121
+: 
+{id: 155, name: 'caroline.ondieki', displayName: 'Caroline Ondieki', number: '8913', context: 'default', …}
+122
+: 
+{id: 198, name: 'auma.chrisencia', displayName: 'Auma Chrisencia', number: '7631', context: 'default', …}
+123
+: 
+{id: 108, name: 'denis.kirimi', displayName: 'Denis Kirimi', number: '8839', context: 'default', …}
+124
+: 
+{id: 130, name: 'ellijoy.gataka', displayName: 'Ellijoy Gataka', number: '8840', context: 'default', …}
+125
+: 
+{id: 135, name: 'brian.kimutai', displayName: 'Brian Kimutai', number: '8090', context: 'default', …}
+126
+: 
+{id: 80, name: 'ochola.alberto', displayName: 'Ochola Alberto', number: '7312', context: 'default', …}
+127
+: 
+{id: 167, name: 'harriet.chebet', displayName: 'Harriet Chebet', number: '7947', context: 'default', …}
+128
+: 
+{id: 35, name: 'mercy.nasimiyu', displayName: 'Mercy Nasimiyu', number: '7726', context: 'default', …}
+129
+: 
+{id: 162, name: 'fridah.murithi', displayName: 'Fridah Murithi', number: '8784', context: 'default', …}
+130
+: 
+{id: 209, name: 'samuel.gitau', displayName: 'Samuel Gitau', number: '8345', context: 'default', …}
+131
+: 
+{id: 112, name: 'tonny.oyare', displayName: 'Tonny Oyare', number: '8785', context: 'default', …}
+132
+: 
+{id: 123, name: 'cosmas.kwemoi', displayName: 'Cosmas Kwemoi', number: '7728', context: 'default', …}
+133
+: 
+{id: 194, name: 'laura.jepkemoi', displayName: 'Laura Jepkemoi', number: '7269', context: 'default', …}
+134
+: 
+{id: 145, name: 'alvin.muthami', displayName: 'Alvin Muthami', number: '8835', context: 'default', …}
+135
+: 
+{id: 48, name: 'david.gatundu', displayName: 'David Gatundu', number: '8928', context: 'default', …}
+136
+: 
+{id: 63, name: 'paul.mwangi', displayName: 'Paul Mwangi', number: '8873', context: 'default', …}
+137
+: 
+{id: 150, name: 'macmillan.nyakado', displayName: 'Macmillan Nyakado', number: '8354', context: 'default', …}
+138
+: 
+{id: 95, name: 'joseph.gichuki', displayName: 'Joseph Gichuki', number: '8122', context: 'default', …}
+139
+: 
+{id: 50, name: 'eugine.wambui', displayName: 'Eugine Wambui', number: '7935', context: 'default', …}
+140
+: 
+{id: 67, name: 'kelvin.rotich', displayName: 'Kelvin Rotich', number: '8860', context: 'default', …}
+141
+: 
+{id: 199, name: 'mercy.wanyoike', displayName: 'Mercy Wanyoike', number: '8134', context: 'default', …}
+142
+: 
+{id: 127, name: 'sharon.wasagari', displayName: 'Sharon Wasagari', number: '7746', context: 'default', …}
+143
+: 
+{id: 31, name: 'linda.wekesa', displayName: 'Linda Wekesa', number: '8891', context: 'default', …}
+144
+: 
+{id: 177, name: 'phibian.ruto', displayName: 'Phibian Ruto', number: '8856', context: 'default', …}
+145
+: 
+{id: 182, name: 'esther.wandia', displayName: 'Esther Wandia', number: '8609', context: 'default', …}
+146
+: 
+{id: 154, name: 'nicholus.mwaura', displayName: 'Nicholus Mwaura', number: '8112', context: 'default', …}
+147
+: 
+{id: 72, name: 'lameck.onano', displayName: 'Lameck Onano', number: '8789', context: 'default', …}
+148
+: 
+{id: 175, name: 'mercy.chebet', displayName: 'Mercy Chebet', number: '8626', context: 'default', …}
+149
+: 
+{id: 143, name: 'caroline.kimemia', displayName: 'Caroline Kimemia', number: '8490', context: 'default', …}
+150
+: 
+{id: 43, name: 'wilson.kinyua', displayName: 'Wilson Kinyua', number: '8285', context: 'default', …}
+151
+: 
+{id: 99, name: 'sarah.waceke', displayName: 'Sarah Waceke', number: '7231', context: 'default', …}
+152
+: 
+{id: 87, name: 'carla.morara', displayName: 'Carla Morara', number: '8570', context: 'default', …}
+153
+: 
+{id: 203, name: 'kelvin', displayName: 'Kelvin Kinyua', number: '9888', context: 'default', …}
+154
+: 
+{id: 104, name: 'evelyne.sentero', displayName: 'Evelyne Sentero', number: '8048', context: 'default', …}
+155
+: 
+{id: 40, name: 'narasha.mayani', displayName: 'Narasha Mayani', number: '7839', context: 'default', …}
+156
+: 
+{id: 26, name: 'ann.makena', displayName: 'Ann Makena', number: '8221', context: 'default', …}
+157
+: 
+{id: 158, name: 'barbra.cherono', displayName: 'Barbra Cherono', number: '7776', context: 'default', …}
+158
+: 
+{id: 186, name: 'centrine.nanjala', displayName: 'Centrine Nanjala', number: '7610', context: 'default', …}
+159
+: 
+{id: 171, name: 'cynthia.ethel', displayName: 'Cynthia Ethel', number: '8431', context: 'default', …}
+160
+: 
+{id: 139, name: 'jackline.valai', displayName: 'Jackline Valai', number: '7232', context: 'default', …}
+161
+: 
+{id: 55, name: 'dominic.kimanzi', displayName: 'Dominic Kimanzi', number: '7849', context: 'default', …}
+162
+: 
+{id: 114, name: 'christine.osano', displayName: 'Christine Osano', number: '7307', context: 'default', …}
+163
+: 
+{id: 8, name: 'markcallqueue', displayName: 'Test Call Queue', number: '254709273630', context: 'default', …}
+164
+: 
+{id: 75, name: 'ian.muthuri', displayName: 'Ian Muthuri', number: '7807', context: 'default', …}
+165
+: 
+{id: 207, name: 'shem.kariuki', displayName: 'Shem Kariuki', number: '9092', context: 'default', …}
+166
+: 
+{id: 82, name: 'cynthia.akinyi', displayName: 'Cynthia Akinyi', number: '7199', context: 'default', …}
+167
+: 
+{id: 214, name: 'kiptoo.jesse', displayName: 'Kiptoo Jesse', number: '9502', context: 'default', …}
+168
+: 
+{id: 119, name: 'lilian.njagi', displayName: 'Lilian Njagi', number: '7364', context: 'default', …}
+169
+: 
+{id: 58, name: 'steve.odhiambo', displayName: 'Steve Odhiambo', number: '8875', context: 'default', …}
+170
+: 
+{id: 151, name: 'lilian.lugogo', displayName: 'Lilian Lugogo', number: '8114', context: 'default', …}
+171
+: 
+{id: 36, name: 'naomi.kosgei', displayName: 'Naomi Kosgei', number: '7597', context: 'default', …}
+172
+: 
+{id: 168, name: 'cheruiyot.brian', displayName: 'Cheruiyot Brian', number: '8696', context: 'default', …}
+173
+: 
+{id: 146, name: 'grace.angela', displayName: 'Grace Angela', number: '7329', context: 'default', …}
+174
+: 
+{id: 30, name: 'mercy.kimani', displayName: 'Mercy Kimani', number: '8922', context: 'default', …}
+175
+: 
+{id: 51, name: 'esther.karoki', displayName: 'Esther Karoki', number: '8089', context: 'default', …}
+176
+: 
+{id: 190, name: 'terry.obanda', displayName: 'Terry Obanda', number: '8787', context: 'default', …}
+177
+: 
+{id: 183, name: 'teresa.kwambo', displayName: 'Teresa Kwambo', number: '7941', context: 'default', …}
+178
+: 
+{id: 210, name: 'stephany.wahu', displayName: 'Stephany Wahu', number: '8738', context: 'default', …}
+179
+: 
+{id: 107, name: 'emmanuel.horia', displayName: 'Emmanuel Horia', number: '8857', context: 'default', …}
+180
+: 
+{id: 4, name: 'renewals', displayName: 'ce virtual2', number: '', context: 'default', …}
+181
+: 
+{id: 79, name: 'susan.odongo', displayName: 'Susan Odongo', number: '7236', context: 'default', …}
+182
+: 
+{id: 195, name: 'stella.karimi', displayName: 'Stella Karimi', number: '8915', context: 'default', …}
+183
+: 
+{id: 94, name: 'mercy.kendi', displayName: 'Mercy Kendi', number: '8535', context: 'default', …}
+184
+: 
+{id: 126, name: 'catherine.manuthu', displayName: 'Catherine Manuthu', number: '7919', context: 'default', …}
+185
+: 
+{id: 136, name: 'aurelia.nekoye', displayName: 'Aurelia Nekoye', number: '7808', context: 'default', …}
+186
+: 
+{id: 68, name: 'redempta.atieno', displayName: 'Redempta Atieno', number: '8820', context: 'default', …}
+187
+: 
+{id: 62, name: 'peter.kibichi', displayName: 'Peter Kibichi', number: '8872', context: 'default', …}
+188
+: 
+{id: 178, name: 'joshua.wahome', displayName: 'Joshua Wahome', number: '8347', context: 'default', …}
+189
+: 
+{id: 131, name: 'quinter.awuor', displayName: 'Quinter Awuor', number: '8736', context: 'default', …}
+190
+: 
+{id: 47, name: 'olive.chepkoech', displayName: 'Olive Chepkoech', number: '8124', context: 'default', …}
+191
+: 
+{id: 163, name: 'eunice.njeri', displayName: 'Eunice Njeri', number: '7210', context: 'default', …}
+192
+: 
+{id: 200, name: 'mercy.chepngetich', displayName: 'Mercy Chepngetich', number: '8877', context: 'default', …}
+193
+: 
+{id: 122, name: 'vcherono', displayName: 'Valentine Cherono', number: '7168', context: 'default', …}
+194
+: 
+{id: 83, name: 'stella.langat', displayName: 'Stella Langat', number: '7704', context: 'default', …}
+195
+: 
+{id: 215, name: 'nancy.ajega', displayName: 'Nancy Ajega', number: '9501', context: 'default', …}
+196
+: 
+{id: 100, name: 'shadrack.kyalo', displayName: 'Shadrack Kyalo', number: '8827', context: 'default', …}
+197
+: 
+{id: 90, name: 'robert.kimosop', displayName: 'Robert Kimosop', number: '7652', context: 'default', …}
+198
+: 
+{id: 111, name: 'brenda.akoth', displayName: 'Brenda Akoth', number: '7125', context: 'default', …}
+199
+: 
+{id: 10, name: 'fas', displayName: 'FAS', number: '254709273400', context: 'default', …}
+[200 … 223]
+200
+: 
+{id: 14, name: 'prelegalcalls', displayName: 'Pre-legal calls', number: '254709273845', context: 'default', …}
+201
+: 
+{id: 1, name: 'agrodealer', displayName: 'agrodealer', number: '254709273100', context: 'default', …}
+202
+: 
+{id: 2, name: 'apolloincoming', displayName: 'apolloincoming', number: '254709273000', context: 'default', …}
+203
+: 
+{id: 7, name: 'insurance', displayName: 'Insurance', number: '254709273920', context: 'default', …}
+204
+: 
+{id: 35, name: 'phylis.mukoselo', displayName: 'Phyllis Mukoselo', number: '9513', context: 'default', …}
+205
+: 
+{id: 18, name: 'susan.gatwiri', displayName: 'Susan Gatwiri', number: '9500', context: 'default', …}
+206
+: 
+{id: 31, name: 'gladys.kariuki', displayName: 'Gladys Kariuki', number: '9509', context: 'default', …}
+207
+: 
+{id: 8, name: 'markcallqueue', displayName: 'Test Call Queue', number: '254709273630', context: 'default', …}
+208
+: 
+{id: 24, name: 'charity.mumbi', displayName: 'Charity Mumbi', number: '254709273921', context: 'default', …}
+209
+: 
+{id: 25, name: 'cynthia.ngenoh', displayName: 'Cynthia Ngenoh', number: '254709273924', context: 'default', …}
+210
+: 
+{id: 20, name: 'kiptoo.jesse', displayName: 'Kiptoo Jesse', number: '9502', context: 'default', …}
+211
+: 
+{id: 29, name: 'vivian.otiende', displayName: 'Vivian Otiende', number: '9507', context: 'default', …}
+212
+: 
+{id: 28, name: 'rahab.kimani', displayName: 'Rahab Kimani', number: '9506', context: 'default', …}
+213
+: 
+{id: 21, name: 'rosemary.otieno', displayName: 'Rosemary Otieno', number: '9503', context: 'default', …}
+214
+: 
+{id: 33, name: 'winnie.hellen', displayName: 'Winnie Hellen', number: '9511', context: 'default', …}
+215
+: 
+{id: 17, name: 'repayments', displayName: 'repayments', number: '9000', context: 'default', …}
+216
+: 
+{id: 32, name: 'veronicah.ngendo', displayName: 'Veronicah Ngendo', number: '9510', context: 'default', …}
+217
+: 
+{id: 34, name: 'peris.githinji', displayName: 'Peris Githinji', number: '9512', context: 'default', …}
+218
+: 
+{id: 22, name: 'hannah.mwaniki', displayName: 'Hannah Mwaniki', number: '9504', context: 'default', …}
+219
+: 
+{id: 27, name: 'barbra.guya', displayName: 'Barbra Guya', number: '9505', context: 'default', …}
+220
+: 
+{id: 26, name: 'grace.nganga', displayName: 'Grace Nganga', number: '254709273923', context: 'default', …}
+221
+: 
+{id: 23, name: 'kelvin', displayName: 'Kelvin Kinyua', number: '9800', context: 'default', …}
+222
+: 
+{id: 30, name: 'kristi.waiharo', displayName: 'Kristi Waiharo', number: '9508', context: 'default', …}
+223
+: 
+{id: 19, name: 'nancy.ajega', displayName: 'Nancy Ajega', number: '9501', context: 'default', …}
+length
+: 
+224
+[[Prototype]]
+: 
+Array(0)

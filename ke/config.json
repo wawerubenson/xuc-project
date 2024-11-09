@@ -1,0 +1,18 @@
+{
+    "users": [
+        {
+            "username": "bensonkogi",
+            "phoneNumber": "3400",
+            "pbxDetails": [
+                {
+                    "ip": "172.27.204.21",
+                    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsb2dpbiI6ImJlbnNvbmtvZ2kiLCJleHBpcmVzVGltZSI6eyJ1bnRpbCI6MTczMTI0OTA5M319.cqbm25pIrpScwDtoZOerLj6rVvywpb_BV4e65TA0G04"
+                },
+                {
+                    "ip": "172.27.229.25",
+                    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsb2dpbiI6ImJlbnNvbmtvZ2kiLCJleHBpcmVzVGltZSI6eyJ1bnRpbCI6MTczMTI0OTExN319.Xy8JBU5C6jOPBT1hMbmA_e71mKOab7s8PFyu1sD7v4g"
+                }
+            ]
+        }
+    ]
+}
